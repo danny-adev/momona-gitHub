@@ -1,0 +1,10 @@
+*{
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+}
+.hello{
+  background: blue;
+  color: red;
+  font-size: 50px;
+}
